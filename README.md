@@ -1,7 +1,7 @@
-# Optimisation_ALGO:
+# Gradient Descent:
 Context
 ----
-Optimisation_ALGO package implements the most common gradient descent methods in order to minimize a cost well defined cost function.
+Gradient_Descent package implements the most common gradient descent methods in order to minimize a cost well defined cost function.
 
 Algorithms:
 ----
