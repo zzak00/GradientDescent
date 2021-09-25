@@ -1,7 +1,7 @@
 # Gradient Descent:
 Context
 ----
-Gradient_Descent package implements the most common gradient descent methods in order to minimize a cost well defined cost function.
+Gradient Descent package implements the most common gradient descent methods in order to minimize a well defined cost function.
 
 Algorithms:
 ----
